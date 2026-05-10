@@ -18,7 +18,7 @@ Este projeto foi desenvolvido com foco em aprendizado e prática de programaçã
 Clone o repositório:
 git clone https://github.com/vnniwzx/nome-do-repositorio.git
 Acesse a pasta do projeto:
-cd nome-do-repositorio
+cd RPG-Battle-System-Python
 Execute o arquivo: python rpg.py
 
 👨‍💻 Autor
